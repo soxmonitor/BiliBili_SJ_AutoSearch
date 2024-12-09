@@ -24,7 +24,7 @@ headers = {
     'accept': 'application/json, text/plain, */*',
     'accept-language': 'zh-CN,zh;q=0.9',
     'content-type': 'application/json',
-    'cookie': 'buvid3=EF225A10-0811-1895-C3D7-06F81F1EB53954001infoc; b_nut=1722854354; _uuid=42A1065C7-2E71-31C5-69EB-214F1026816B653742infoc; enable_web_push=DISABLE; buvid4=5C6B8457-9890-60C4-3ED8-4079B6F4FCF154726-024080510-Ci0iq%2FDXwzywKLE%2F2NhRmw%3D%3D; header_theme_version=CLOSE; rpdid=|(u|Jkm~~lkk0J\'u~kk)lRRkR; DedeUserID=27118504; DedeUserID__ckMd5=813cef00b93f795d; buvid_fp_plain=undefined; hit-dyn-v2=1; CURRENT_BLACKGAP=0; fingerprint=a30a652c7f7923d13d9e2fbf9720e987; buvid_fp=a30a652c7f7923d13d9e2fbf9720e987; is-2022-channel=1; match_float_version=ENABLE; share_source_origin=COPY; bsource=search_google; home_feed_column=4; browser_resolution=1177-939; CURRENT_QUALITY=80; SESSDATA=1fafd16f%2C1749050792%2Cfbe83%2Ac1CjDWlT0oJHOFr49Ag18etHfE9vdntOAUAZ3hmoCsBl4kuy6MHvyUq0L8s2jq5CHllAwSVlo2ZGNOUDI5eFI1ODNSU2tHV3FIS1BkNml4R1lwVXNjbDZ1U2xRZkpkOVJPZkZ5M09HRlgzUFZ4YlpPNTBpVDBDNGVqUXpmZ2VBRTlwRlJJemZGM3lBIIEC; bili_jct=da4f50a7c65e7a11dfa104c9cd15bc4d; sid=6lcbnhpo; b_lsid=AF7939B4_1939D1DBB5A; bp_t_offset_27118504=1007898407689256960; CURRENT_FNVAL=2000',
+    'cookie': '换成你自己的cookie',
     'origin': 'https://mall.bilibili.com',
     'priority': 'u=1, i',
     'referer': 'https://mall.bilibili.com/neul-next/index.html?page=magic-market_index',
